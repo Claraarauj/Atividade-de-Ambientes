@@ -1,0 +1,5 @@
+function reverse(array) {
+    console.log(array.reverse())
+  }
+  reverse([1,2,3]); //[3,2,1]
+  reverse(["a", "b", "c"]); //["c", "b", "a"]
